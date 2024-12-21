@@ -1,0 +1,14 @@
+:hosts {
+  color: white;
+  cursor: pointer;
+  padding: 2em;
+  display: block;
+}
+pre {
+  backgroud-color: green;
+  padding: 0.2em;
+}
+.backwards {
+  backgroud-color: ;
+  color: azure;
+}
